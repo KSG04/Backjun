@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Q1100 {
+public class Q1100 {
+
 }
